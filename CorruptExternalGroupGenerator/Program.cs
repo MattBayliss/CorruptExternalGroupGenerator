@@ -4,7 +4,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Graph.Models.ExternalConnectors;
 using Microsoft.Graph.Models.ODataErrors;
 using static System.Diagnostics.Debug;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 /*
  * repeat until a 'Corrupt' group is generated
